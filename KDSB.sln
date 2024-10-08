@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KDSB.Temperatura", "KDSB.Te
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KDSB.Temperatura.UnitTestMSTest", "KDSB.Temperatura.UnitTestMSTest\KDSB.Temperatura.UnitTestMSTest.csproj", "{038BE978-39DF-4C88-ADCB-1C9D76300191}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KDSB.CadenaDeTexto", "KDSB.CadenaDeTexto\KDSB.CadenaDeTexto.csproj", "{757E90AD-1689-4579-9DA8-1E9C5A52FF73}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{038BE978-39DF-4C88-ADCB-1C9D76300191}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{038BE978-39DF-4C88-ADCB-1C9D76300191}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{038BE978-39DF-4C88-ADCB-1C9D76300191}.Release|Any CPU.Build.0 = Release|Any CPU
+		{757E90AD-1689-4579-9DA8-1E9C5A52FF73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{757E90AD-1689-4579-9DA8-1E9C5A52FF73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{757E90AD-1689-4579-9DA8-1E9C5A52FF73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{757E90AD-1689-4579-9DA8-1E9C5A52FF73}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
